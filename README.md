@@ -12,7 +12,9 @@ This project simulates an automated collection and reward system for recyclable 
     
 3.**Run the script:**
     python reward_system.py
-**Usage**
+    
+### Usage
+
 When you run the script, you will see the following options:
 1. Add items to system
 2. View total reward
