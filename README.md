@@ -9,6 +9,7 @@ This project simulates an automated collection and reward system for recyclable 
 
  2.**Navigate into the cloned repository directory:**
     cd reward-system
+    
 3.**Run the script:**
     python reward_system.py
 **Usage**
